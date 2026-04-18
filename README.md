@@ -5,7 +5,7 @@
 ### 🛡️ Cybersecurity Engineer | Penetration Tester | Security Researcher
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Offensive+Security+Specialist;Penetration+Testing+Expert;Cyber+Forensics+Analyst;Reverse+Engineering+Enthusiast;IoT+Hardware+Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Offensive+Security+Specialist;Penetration+Tester;Cyber+Forensics+Analyst;Reverse+Engineering+Enthusiast;IoT+Hardware+Security+Researcher" alt="Typing SVG" />
 </p>
 
 <p align="center">
