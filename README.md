@@ -9,7 +9,6 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=ram-prasad-sahoo&label=Profile%20Views&color=brightgreen&style=flat-square" />
-<img src="https://img.shields.io/github/followers/ram-prasad-sahoo?label=Followers&style=flat-square&color=blue" />
 
 </div>
 
